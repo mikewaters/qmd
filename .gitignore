@@ -8,6 +8,7 @@ texts/
 *.md
 !README.md
 !CLAUDE.md
+!docs/llamaindex-rewrite-design.md
 !skills/**/*.md
 !finetune/*.md
 finetune/outputs/
